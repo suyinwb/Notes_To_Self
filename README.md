@@ -7,4 +7,4 @@ Project that I will like to do for myself:
 *
 
 Small Test Projects:
-* Use Reviews text from Amazon Vine for BERT
+* Use Reviews text from Amazon Vine with BERT (refer: https://huggingface.co/blog/bert-101?text=Paris+is+the+%5BMASK%5D+of+France.)
