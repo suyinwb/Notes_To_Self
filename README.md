@@ -9,3 +9,4 @@ Project that I will like to do for myself:
 Small Test Projects:
 * Use Reviews text from Amazon Vine with BERT (refer: https://huggingface.co/blog/bert-101?text=Paris+is+the+%5BMASK%5D+of+France.)
 * Some interesting projects https://www.upgrad.com/blog/data-science-projects-on-github/#9_DeepPrivacy
+* Formula 1 Telemetry Data: https://medium.com/towards-formula-1-analysis/how-to-analyze-formula-1-telemetry-in-2022-a-python-tutorial-309ced4b8992
